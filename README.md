@@ -6,8 +6,6 @@ Live site: [https://eveveil.com](https://eveveil.com)
 
 ## About
 
-EVEVEIL is a dark cinematic music project built around the release **Where Secrets Bloom**.
-
 The website was created as a minimal artist landing page with a restrained editorial mood, custom visual identity, album presentation, platform links, lyrics modal interactions, contact details, and GitHub Pages deployment on a custom domain.
 
 ## Project Scope
