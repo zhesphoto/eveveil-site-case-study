@@ -41,5 +41,4 @@ The private source repository contains the implementation files, working assets,
 ## Links
 
 - Website: [https://eveveil.com](https://eveveil.com)
-- Telegram: [https://t.me/eveveil](https://t.me/eveveil)
-- Contact: [contact@eveveil.com](mailto:contact@eveveil.com)
+- Contact: [es22studio@gmail.com](mailto:es22studio@gmail.com)
